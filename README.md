@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on **Product Analytics & Digital Marketing Analysis**  
 🌱 I’m learning **Machine Learning, AWS, and DevOps**  
-👨‍💻 All of my projects are available at [My Portfolio](https://saikiranbandari.github.io/)  
+👨‍💻 All of my projects are available at [My Portfolio](http://saikiran-bandari.github.io/SaiKiran-Portfolio)  
 💬 Ask me about **Python, SQL, Data Visualization, AWS, and ML**  
 📫 How to reach me: **saikiranbandari48@gmail.com**  
 ⚡ Fun fact: **I love solving real-world data problems!**  
